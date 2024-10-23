@@ -20,7 +20,7 @@ def main():
 def perform_task():
     # Simulate a task that may fail
     # Change this to False to trigger sys.exit(1)
-    return True  # Simulates failure; change to True for success
+    return false  # Simulates failure; change to True for success
 
 if __name__ == "__main__":
     main()
